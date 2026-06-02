@@ -1,6 +1,6 @@
 # Hi, I'm Andrés 👋
 
-Integration Support Engineer at Procore** · San José, Costa Rica 🇨🇷
+Integration Support Engineer at Procore · San José, Costa Rica 🇨🇷
 
 I'm a Software Engineer passionate about technology, AI tools, and 
 exploring the endless possibilities of what can be built with them. 
